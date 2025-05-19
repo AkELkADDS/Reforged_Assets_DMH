@@ -1,0 +1,275 @@
+====================================================== 
+   BG3 MOD BACKUP DETAILED LOG - Rathgor-Reforged_Assets_DMH_ad0455a0-72e3-c994-c0ec-2fcdb1778b22 
+   Mon 05/19/2025  7:31:25.75 
+====================================================== 
+ 
+BG3 Path: E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data 
+Backup folder: C:\GIT_BG3\MOD_REPOS\Rathgor-Reforged_Assets_DMH_ad0455a0-72e3-c994-c0ec-2fcdb1778b22 
+ 
+[FILE COPYING REPORT] 
+====================================================== 
+SECTION 1: FILES FOUND 
+------------------------------------------------------------------------ 
+ 
+[LOG] Found mod folder: E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\Rathgor-Reforged_Assets_DMH_ad0455a0-72e3-c994-c0ec-2fcdb1778b22 
+ 
+Files found: 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\Rathgor-Reforged_Assets_DMH_ad0455a0-72e3-c994-c0ec-2fcdb1778b22\meta.lsx 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\Rathgor-Reforged_Assets_DMH_ad0455a0-72e3-c994-c0ec-2fcdb1778b22\thumbnail.png 
+Total files in E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\Rathgor-Reforged_Assets_DMH_ad0455a0-72e3-c994-c0ec-2fcdb1778b22: 2 
+ 
+[LOG] Found mod folder: E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\"Editor\Mods"\Rathgor-Reforged_Assets_DMH_ad0455a0-72e3-c994-c0ec-2fcdb1778b22 
+ 
+Files found: 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Editor\Mods\Rathgor-Reforged_Assets_DMH_ad0455a0-72e3-c994-c0ec-2fcdb1778b22\CharacterCreation\CharacterCreationAppearanceVisuals.tbl 
+Total files in E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\"Editor\Mods"\Rathgor-Reforged_Assets_DMH_ad0455a0-72e3-c994-c0ec-2fcdb1778b22: 1 
+ 
+[LOG] Found mod folder: E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\Rathgor-Reforged_Assets_DMH_ad0455a0-72e3-c994-c0ec-2fcdb1778b22 
+ 
+Files found: 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\Rathgor-Reforged_Assets_DMH_ad0455a0-72e3-c994-c0ec-2fcdb1778b22\meta.lsx 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\Rathgor-Reforged_Assets_DMH_ad0455a0-72e3-c994-c0ec-2fcdb1778b22\mod_publish_logo.png 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\Rathgor-Reforged_Assets_DMH_ad0455a0-72e3-c994-c0ec-2fcdb1778b22\GUI\metadata.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\Rathgor-Reforged_Assets_DMH_ad0455a0-72e3-c994-c0ec-2fcdb1778b22\Localization\English\english.xml 
+Total files in E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\Rathgor-Reforged_Assets_DMH_ad0455a0-72e3-c994-c0ec-2fcdb1778b22: 4 
+ 
+[LOG] Found mod folder: E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Rathgor-Reforged_Assets_DMH_ad0455a0-72e3-c994-c0ec-2fcdb1778b22 
+ 
+Files found: 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Rathgor-Reforged_Assets_DMH_ad0455a0-72e3-c994-c0ec-2fcdb1778b22\CharacterCreation\CharacterCreationAppearanceVisuals.lsx 
+Total files in E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Rathgor-Reforged_Assets_DMH_ad0455a0-72e3-c994-c0ec-2fcdb1778b22: 1 
+ 
+[LOG] Total files found across all folders: 8 
+ 
+SECTION 2: COPY OPERATIONS 
+------------------------------------------------------------------------ 
+ 
+[DEBUG] Creating directory: C:\GIT_BG3\MOD_REPOS\Rathgor-Reforged_Assets_DMH_ad0455a0-72e3-c994-c0ec-2fcdb1778b22\Projects\Rathgor-Reforged_Assets_DMH_ad0455a0-72e3-c994-c0ec-2fcdb1778b22\.. 
+[LOG] Starting copy of E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\Rathgor-Reforged_Assets_DMH_ad0455a0-72e3-c994-c0ec-2fcdb1778b22 to Projects\Rathgor-Reforged_Assets_DMH_ad0455a0-72e3-c994-c0ec-2fcdb1778b22 
+[DEBUG] Using source: E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\Rathgor-Reforged_Assets_DMH_ad0455a0-72e3-c994-c0ec-2fcdb1778b22 
+[DEBUG] Using destination: Projects\Rathgor-Reforged_Assets_DMH_ad0455a0-72e3-c994-c0ec-2fcdb1778b22 
+[LOG] Robocopy completed with code: 0 
+[DEBUG] Extracting stats from temp log 
+
+-------------------------------------------------------------------------------
+   ROBOCOPY     ::     Robust File Copy for Windows                              
+-------------------------------------------------------------------------------
+
+  Started : Monday, May 19, 2025 7:31:29 AM
+   Source : E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\Rathgor-Reforged_Assets_DMH_ad0455a0-72e3-c994-c0ec-2fcdb1778b22\
+     Dest : C:\GIT_BG3\MOD_REPOS\Rathgor-Reforged_Assets_DMH_ad0455a0-72e3-c994-c0ec-2fcdb1778b22\Projects\Rathgor-Reforged_Assets_DMH_ad0455a0-72e3-c994-c0ec-2fcdb1778b22\
+
+    Files : *.*
+	    
+  Options : *.* /V /S /E /DCOPY:D /COPY:DT /MT:4 /R:3 /W:1 
+
+------------------------------------------------------------------------------
+
+	    New File  		     705	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\Rathgor-Reforged_Assets_DMH_ad0455a0-72e3-c994-c0ec-2fcdb1778b22\meta.lsx100%  
+	    New File  		  993119	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\Rathgor-Reforged_Assets_DMH_ad0455a0-72e3-c994-c0ec-2fcdb1778b22\thumbnail.png100%  
+
+------------------------------------------------------------------------------
+
+               Total    Copied   Skipped  Mismatch    FAILED    Extras
+    Dirs :         1         1         1         0         0         0
+   Files :         2         2         0         0         0         0
+   Bytes :   970.5 k   970.5 k         0         0         0         0
+   Times :   0:00:00   0:00:00                       0:00:00   0:00:00
+
+
+   Speed :           993824000 Bytes/sec.
+   Speed :           56867.065 MegaBytes/min.
+   Ended : Monday, May 19, 2025 7:31:29 AM
+
+ 
+[DEBUG] Counting source files 
+[DEBUG] Total files counted: 2 
+[DEBUG] Successfully copied files: 2 
+[LOG] Copy statistics for E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\Rathgor-Reforged_Assets_DMH_ad0455a0-72e3-c994-c0ec-2fcdb1778b22: 
+      Total files: 2 
+      Copied successfully: 2 
+      Skipped: 0 
+      Mismatched: 0 
+      Failed: 0 
+ 
+[LOG] Checking for any failed files: 
+ 
+[DEBUG] Creating directory: C:\GIT_BG3\MOD_REPOS\Rathgor-Reforged_Assets_DMH_ad0455a0-72e3-c994-c0ec-2fcdb1778b22\Editor\Mods\Rathgor-Reforged_Assets_DMH_ad0455a0-72e3-c994-c0ec-2fcdb1778b22\.. 
+[LOG] Starting copy of E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\"Editor\Mods"\Rathgor-Reforged_Assets_DMH_ad0455a0-72e3-c994-c0ec-2fcdb1778b22 to "Editor\Mods"\Rathgor-Reforged_Assets_DMH_ad0455a0-72e3-c994-c0ec-2fcdb1778b22 
+[DEBUG] Using source: E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Editor\Mods\Rathgor-Reforged_Assets_DMH_ad0455a0-72e3-c994-c0ec-2fcdb1778b22 
+[DEBUG] Using destination: Editor\Mods\Rathgor-Reforged_Assets_DMH_ad0455a0-72e3-c994-c0ec-2fcdb1778b22 
+[LOG] Robocopy completed with code: 0 
+[DEBUG] Extracting stats from temp log 
+
+-------------------------------------------------------------------------------
+   ROBOCOPY     ::     Robust File Copy for Windows                              
+-------------------------------------------------------------------------------
+
+  Started : Monday, May 19, 2025 7:31:30 AM
+   Source : E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Editor\Mods\Rathgor-Reforged_Assets_DMH_ad0455a0-72e3-c994-c0ec-2fcdb1778b22\
+     Dest : C:\GIT_BG3\MOD_REPOS\Rathgor-Reforged_Assets_DMH_ad0455a0-72e3-c994-c0ec-2fcdb1778b22\Editor\Mods\Rathgor-Reforged_Assets_DMH_ad0455a0-72e3-c994-c0ec-2fcdb1778b22\
+
+    Files : *.*
+	    
+  Options : *.* /V /S /E /DCOPY:D /COPY:DT /MT:4 /R:3 /W:1 
+
+------------------------------------------------------------------------------
+
+	    New File  		   17306	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Editor\Mods\Rathgor-Reforged_Assets_DMH_ad0455a0-72e3-c994-c0ec-2fcdb1778b22\CharacterCreation\CharacterCreationAppearanceVisuals.tbl  0%  100%  
+
+------------------------------------------------------------------------------
+
+               Total    Copied   Skipped  Mismatch    FAILED    Extras
+    Dirs :         2         2         1         0         0         0
+   Files :         1         1         0         0         0         0
+   Bytes :    16.9 k    16.9 k         0         0         0         0
+   Times :   0:00:00   0:00:00                       0:00:00   0:00:00
+
+
+   Speed :            17306000 Bytes/sec.
+   Speed :             990.257 MegaBytes/min.
+   Ended : Monday, May 19, 2025 7:31:30 AM
+
+ 
+[DEBUG] Counting source files 
+[DEBUG] Total files counted: 1 
+[DEBUG] Successfully copied files: 1 
+[LOG] Copy statistics for E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\"Editor\Mods"\Rathgor-Reforged_Assets_DMH_ad0455a0-72e3-c994-c0ec-2fcdb1778b22: 
+      Total files: 1 
+      Copied successfully: 1 
+      Skipped: 0 
+      Mismatched: 0 
+      Failed: 0 
+ 
+[LOG] Checking for any failed files: 
+ 
+[DEBUG] Creating directory: C:\GIT_BG3\MOD_REPOS\Rathgor-Reforged_Assets_DMH_ad0455a0-72e3-c994-c0ec-2fcdb1778b22\Mods\Rathgor-Reforged_Assets_DMH_ad0455a0-72e3-c994-c0ec-2fcdb1778b22\.. 
+[LOG] Starting copy of E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\Rathgor-Reforged_Assets_DMH_ad0455a0-72e3-c994-c0ec-2fcdb1778b22 to Mods\Rathgor-Reforged_Assets_DMH_ad0455a0-72e3-c994-c0ec-2fcdb1778b22 
+[DEBUG] Using source: E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\Rathgor-Reforged_Assets_DMH_ad0455a0-72e3-c994-c0ec-2fcdb1778b22 
+[DEBUG] Using destination: Mods\Rathgor-Reforged_Assets_DMH_ad0455a0-72e3-c994-c0ec-2fcdb1778b22 
+[LOG] Robocopy completed with code: 0 
+[DEBUG] Extracting stats from temp log 
+
+-------------------------------------------------------------------------------
+   ROBOCOPY     ::     Robust File Copy for Windows                              
+-------------------------------------------------------------------------------
+
+  Started : Monday, May 19, 2025 7:31:32 AM
+   Source : E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\Rathgor-Reforged_Assets_DMH_ad0455a0-72e3-c994-c0ec-2fcdb1778b22\
+     Dest : C:\GIT_BG3\MOD_REPOS\Rathgor-Reforged_Assets_DMH_ad0455a0-72e3-c994-c0ec-2fcdb1778b22\Mods\Rathgor-Reforged_Assets_DMH_ad0455a0-72e3-c994-c0ec-2fcdb1778b22\
+
+    Files : *.*
+	    
+  Options : *.* /V /S /E /DCOPY:D /COPY:DT /MT:4 /R:3 /W:1 
+
+------------------------------------------------------------------------------
+
+	    New File  		    5708	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\Rathgor-Reforged_Assets_DMH_ad0455a0-72e3-c994-c0ec-2fcdb1778b22\meta.lsx100%  
+	    New File  		  993119	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\Rathgor-Reforged_Assets_DMH_ad0455a0-72e3-c994-c0ec-2fcdb1778b22\mod_publish_logo.png  0%  100%  
+	    New File  		    1141	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\Rathgor-Reforged_Assets_DMH_ad0455a0-72e3-c994-c0ec-2fcdb1778b22\GUI\metadata.lsf100%  
+	    New File  		    1449	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\Rathgor-Reforged_Assets_DMH_ad0455a0-72e3-c994-c0ec-2fcdb1778b22\Localization\English\english.xml100%  
+
+------------------------------------------------------------------------------
+
+               Total    Copied   Skipped  Mismatch    FAILED    Extras
+    Dirs :         4         4         1         0         0         0
+   Files :         4         4         0         0         0         0
+   Bytes :   977.9 k   977.9 k         0         0         0         0
+   Times :   0:00:00   0:00:00                       0:00:00   0:00:00
+
+
+   Speed :           333805666 Bytes/sec.
+   Speed :           19100.513 MegaBytes/min.
+   Ended : Monday, May 19, 2025 7:31:32 AM
+
+ 
+[DEBUG] Counting source files 
+[DEBUG] Total files counted: 4 
+[DEBUG] Successfully copied files: 4 
+[LOG] Copy statistics for E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\Rathgor-Reforged_Assets_DMH_ad0455a0-72e3-c994-c0ec-2fcdb1778b22: 
+      Total files: 4 
+      Copied successfully: 4 
+      Skipped: 0 
+      Mismatched: 0 
+      Failed: 0 
+ 
+[LOG] Checking for any failed files: 
+ 
+[DEBUG] Creating directory: C:\GIT_BG3\MOD_REPOS\Rathgor-Reforged_Assets_DMH_ad0455a0-72e3-c994-c0ec-2fcdb1778b22\Public\Rathgor-Reforged_Assets_DMH_ad0455a0-72e3-c994-c0ec-2fcdb1778b22\.. 
+[LOG] Starting copy of E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Rathgor-Reforged_Assets_DMH_ad0455a0-72e3-c994-c0ec-2fcdb1778b22 to Public\Rathgor-Reforged_Assets_DMH_ad0455a0-72e3-c994-c0ec-2fcdb1778b22 
+[DEBUG] Using source: E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Rathgor-Reforged_Assets_DMH_ad0455a0-72e3-c994-c0ec-2fcdb1778b22 
+[DEBUG] Using destination: Public\Rathgor-Reforged_Assets_DMH_ad0455a0-72e3-c994-c0ec-2fcdb1778b22 
+[LOG] Robocopy completed with code: 0 
+[DEBUG] Extracting stats from temp log 
+
+-------------------------------------------------------------------------------
+   ROBOCOPY     ::     Robust File Copy for Windows                              
+-------------------------------------------------------------------------------
+
+  Started : Monday, May 19, 2025 7:31:34 AM
+   Source : E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Rathgor-Reforged_Assets_DMH_ad0455a0-72e3-c994-c0ec-2fcdb1778b22\
+     Dest : C:\GIT_BG3\MOD_REPOS\Rathgor-Reforged_Assets_DMH_ad0455a0-72e3-c994-c0ec-2fcdb1778b22\Public\Rathgor-Reforged_Assets_DMH_ad0455a0-72e3-c994-c0ec-2fcdb1778b22\
+
+    Files : *.*
+	    
+  Options : *.* /V /S /E /DCOPY:D /COPY:DT /MT:4 /R:3 /W:1 
+
+------------------------------------------------------------------------------
+
+	    New File  		   12009	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Rathgor-Reforged_Assets_DMH_ad0455a0-72e3-c994-c0ec-2fcdb1778b22\CharacterCreation\CharacterCreationAppearanceVisuals.lsx  0%  100%  
+
+------------------------------------------------------------------------------
+
+               Total    Copied   Skipped  Mismatch    FAILED    Extras
+    Dirs :         2         2         1         0         0         0
+   Files :         1         1         0         0         0         0
+   Bytes :    11.7 k    11.7 k         0         0         0         0
+   Times :   0:00:00   0:00:00                       0:00:00   0:00:00
+
+
+   Speed :            12009000 Bytes/sec.
+   Speed :             687.160 MegaBytes/min.
+   Ended : Monday, May 19, 2025 7:31:34 AM
+
+ 
+[DEBUG] Counting source files 
+[DEBUG] Total files counted: 1 
+[DEBUG] Successfully copied files: 1 
+[LOG] Copy statistics for E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Rathgor-Reforged_Assets_DMH_ad0455a0-72e3-c994-c0ec-2fcdb1778b22: 
+      Total files: 1 
+      Copied successfully: 1 
+      Skipped: 0 
+      Mismatched: 0 
+      Failed: 0 
+ 
+[LOG] Checking for any failed files: 
+ 
+SECTION 3: FALLBACK COPY ATTEMPTS 
+------------------------------------------------------------------------ 
+ 
+[LOG] Fallback copy attempt for E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\Rathgor-Reforged_Assets_DMH_ad0455a0-72e3-c994-c0ec-2fcdb1778b22 
+[LOG] Xcopy completed with code: 0 
+[LOG] Xcopy fallback successful 
+[LOG] Files copied by xcopy: 2 
+[LOG] Fallback copy attempt for E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Editor\Mods\Rathgor-Reforged_Assets_DMH_ad0455a0-72e3-c994-c0ec-2fcdb1778b22 
+[LOG] Xcopy completed with code: 0 
+[LOG] Xcopy fallback successful 
+[LOG] Files copied by xcopy: 1 
+[LOG] Fallback copy attempt for E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\Rathgor-Reforged_Assets_DMH_ad0455a0-72e3-c994-c0ec-2fcdb1778b22 
+[LOG] Xcopy completed with code: 0 
+[LOG] Xcopy fallback successful 
+[LOG] Files copied by xcopy: 4 
+[LOG] Fallback copy attempt for E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Rathgor-Reforged_Assets_DMH_ad0455a0-72e3-c994-c0ec-2fcdb1778b22 
+[LOG] Xcopy completed with code: 0 
+[LOG] Xcopy fallback successful 
+[LOG] Files copied by xcopy: 1 
+SECTION 4: FINAL SUMMARY 
+------------------------------------------------------------------------ 
+ 
+[SUMMARY] Total mod folders found: 1 
+[SUMMARY] Total files found: 8 
+[SUMMARY] Total files successfully copied: 16 
+ 
+[SUMMARY] All files were copied successfully 
+ 
+====================================================== 
