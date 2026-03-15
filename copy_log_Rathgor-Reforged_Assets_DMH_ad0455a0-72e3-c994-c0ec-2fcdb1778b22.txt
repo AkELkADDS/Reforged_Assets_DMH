@@ -1,6 +1,6 @@
 ====================================================== 
    BG3 MOD BACKUP DETAILED LOG - Rathgor-Reforged_Assets_DMH_ad0455a0-72e3-c994-c0ec-2fcdb1778b22 
-   Sun 03/15/2026 16:28:48.50 
+   Sun 03/15/2026 16:33:58.81 
 ====================================================== 
  
 BG3 Path: E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data 
@@ -55,7 +55,7 @@ SECTION 2: COPY OPERATIONS
    ROBOCOPY     ::     Robust File Copy for Windows                              
 -------------------------------------------------------------------------------
 
-  Started : Sunday, March 15, 2026 4:28:51 PM
+  Started : Sunday, March 15, 2026 4:34:01 PM
    Source : E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\Rathgor-Reforged_Assets_DMH_ad0455a0-72e3-c994-c0ec-2fcdb1778b22\
      Dest : C:\GIT_BG3\MOD_REPOS\Rathgor-Reforged_Assets_DMH_ad0455a0-72e3-c994-c0ec-2fcdb1778b22\Projects\Rathgor-Reforged_Assets_DMH_ad0455a0-72e3-c994-c0ec-2fcdb1778b22\
 
@@ -79,7 +79,7 @@ SECTION 2: COPY OPERATIONS
 
    Speed :           993824000 Bytes/sec.
    Speed :           56867.065 MegaBytes/min.
-   Ended : Sunday, March 15, 2026 4:28:51 PM
+   Ended : Sunday, March 15, 2026 4:34:01 PM
 
  
 [DEBUG] Counting source files 
@@ -105,7 +105,7 @@ SECTION 2: COPY OPERATIONS
    ROBOCOPY     ::     Robust File Copy for Windows                              
 -------------------------------------------------------------------------------
 
-  Started : Sunday, March 15, 2026 4:28:53 PM
+  Started : Sunday, March 15, 2026 4:34:03 PM
    Source : E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Editor\Mods\Rathgor-Reforged_Assets_DMH_ad0455a0-72e3-c994-c0ec-2fcdb1778b22\
      Dest : C:\GIT_BG3\MOD_REPOS\Rathgor-Reforged_Assets_DMH_ad0455a0-72e3-c994-c0ec-2fcdb1778b22\Editor\Mods\Rathgor-Reforged_Assets_DMH_ad0455a0-72e3-c994-c0ec-2fcdb1778b22\
 
@@ -124,7 +124,7 @@ SECTION 2: COPY OPERATIONS
    Files :         1         1         0         0         0         0
    Bytes :    42.1 k    42.1 k         0         0         0         0
    Times :   0:00:00   0:00:00                       0:00:00   0:00:00
-   Ended : Sunday, March 15, 2026 4:28:53 PM
+   Ended : Sunday, March 15, 2026 4:34:03 PM
 
  
 [DEBUG] Counting source files 
@@ -150,7 +150,7 @@ SECTION 2: COPY OPERATIONS
    ROBOCOPY     ::     Robust File Copy for Windows                              
 -------------------------------------------------------------------------------
 
-  Started : Sunday, March 15, 2026 4:28:54 PM
+  Started : Sunday, March 15, 2026 4:34:05 PM
    Source : E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\Rathgor-Reforged_Assets_DMH_ad0455a0-72e3-c994-c0ec-2fcdb1778b22\
      Dest : C:\GIT_BG3\MOD_REPOS\Rathgor-Reforged_Assets_DMH_ad0455a0-72e3-c994-c0ec-2fcdb1778b22\Mods\Rathgor-Reforged_Assets_DMH_ad0455a0-72e3-c994-c0ec-2fcdb1778b22\
 
@@ -174,9 +174,9 @@ SECTION 2: COPY OPERATIONS
    Times :   0:00:00   0:00:00                       0:00:00   0:00:00
 
 
-   Speed :           1010323000 Bytes/sec.
-   Speed :            57811.145 MegaBytes/min.
-   Ended : Sunday, March 15, 2026 4:28:54 PM
+   Speed :           336774333 Bytes/sec.
+   Speed :           19270.381 MegaBytes/min.
+   Ended : Sunday, March 15, 2026 4:34:05 PM
 
  
 [DEBUG] Counting source files 
@@ -202,7 +202,7 @@ SECTION 2: COPY OPERATIONS
    ROBOCOPY     ::     Robust File Copy for Windows                              
 -------------------------------------------------------------------------------
 
-  Started : Sunday, March 15, 2026 4:28:56 PM
+  Started : Sunday, March 15, 2026 4:34:06 PM
    Source : E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Rathgor-Reforged_Assets_DMH_ad0455a0-72e3-c994-c0ec-2fcdb1778b22\
      Dest : C:\GIT_BG3\MOD_REPOS\Rathgor-Reforged_Assets_DMH_ad0455a0-72e3-c994-c0ec-2fcdb1778b22\Public\Rathgor-Reforged_Assets_DMH_ad0455a0-72e3-c994-c0ec-2fcdb1778b22\
 
@@ -221,7 +221,7 @@ SECTION 2: COPY OPERATIONS
    Files :         1         1         0         0         0         0
    Bytes :    28.9 k    28.9 k         0         0         0         0
    Times :   0:00:00   0:00:00                       0:00:00   0:00:00
-   Ended : Sunday, March 15, 2026 4:28:56 PM
+   Ended : Sunday, March 15, 2026 4:34:06 PM
 
  
 [DEBUG] Counting source files 
