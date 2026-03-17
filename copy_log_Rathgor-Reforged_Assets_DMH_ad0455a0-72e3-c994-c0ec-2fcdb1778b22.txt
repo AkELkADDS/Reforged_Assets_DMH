@@ -1,6 +1,6 @@
 ====================================================== 
    BG3 MOD BACKUP DETAILED LOG - Rathgor-Reforged_Assets_DMH_ad0455a0-72e3-c994-c0ec-2fcdb1778b22 
-   Tue 03/17/2026 20:57:18.10 
+   Tue 03/17/2026 23:25:56.63 
 ====================================================== 
  
 BG3 Path: E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data 
@@ -78,7 +78,7 @@ SECTION 2: COPY OPERATIONS
    ROBOCOPY     ::     Robust File Copy for Windows                              
 -------------------------------------------------------------------------------
 
-  Started : Tuesday, March 17, 2026 8:57:21 PM
+  Started : Tuesday, March 17, 2026 11:25:59 PM
    Source : E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\Rathgor-Reforged_Assets_DMH_ad0455a0-72e3-c994-c0ec-2fcdb1778b22\
      Dest : C:\GIT_BG3\MOD_REPOS\Rathgor-Reforged_Assets_DMH_ad0455a0-72e3-c994-c0ec-2fcdb1778b22\Projects\Rathgor-Reforged_Assets_DMH_ad0455a0-72e3-c994-c0ec-2fcdb1778b22\
 
@@ -102,7 +102,7 @@ SECTION 2: COPY OPERATIONS
 
    Speed :           993824000 Bytes/sec.
    Speed :           56867.065 MegaBytes/min.
-   Ended : Tuesday, March 17, 2026 8:57:21 PM
+   Ended : Tuesday, March 17, 2026 11:25:59 PM
 
  
 [DEBUG] Counting source files 
@@ -128,7 +128,7 @@ SECTION 2: COPY OPERATIONS
    ROBOCOPY     ::     Robust File Copy for Windows                              
 -------------------------------------------------------------------------------
 
-  Started : Tuesday, March 17, 2026 8:57:22 PM
+  Started : Tuesday, March 17, 2026 11:26:01 PM
    Source : E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Editor\Mods\Rathgor-Reforged_Assets_DMH_ad0455a0-72e3-c994-c0ec-2fcdb1778b22\
      Dest : C:\GIT_BG3\MOD_REPOS\Rathgor-Reforged_Assets_DMH_ad0455a0-72e3-c994-c0ec-2fcdb1778b22\Editor\Mods\Rathgor-Reforged_Assets_DMH_ad0455a0-72e3-c994-c0ec-2fcdb1778b22\
 
@@ -147,7 +147,7 @@ SECTION 2: COPY OPERATIONS
    Files :         1         1         0         0         0         0
    Bytes :    67.4 k    67.4 k         0         0         0         0
    Times :   0:00:00   0:00:00                       0:00:00   0:00:00
-   Ended : Tuesday, March 17, 2026 8:57:22 PM
+   Ended : Tuesday, March 17, 2026 11:26:01 PM
 
  
 [DEBUG] Counting source files 
@@ -173,7 +173,7 @@ SECTION 2: COPY OPERATIONS
    ROBOCOPY     ::     Robust File Copy for Windows                              
 -------------------------------------------------------------------------------
 
-  Started : Tuesday, March 17, 2026 8:57:24 PM
+  Started : Tuesday, March 17, 2026 11:26:02 PM
    Source : E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\Rathgor-Reforged_Assets_DMH_ad0455a0-72e3-c994-c0ec-2fcdb1778b22\
      Dest : C:\GIT_BG3\MOD_REPOS\Rathgor-Reforged_Assets_DMH_ad0455a0-72e3-c994-c0ec-2fcdb1778b22\Mods\Rathgor-Reforged_Assets_DMH_ad0455a0-72e3-c994-c0ec-2fcdb1778b22\
 
@@ -197,9 +197,9 @@ SECTION 2: COPY OPERATIONS
    Times :   0:00:00   0:00:00                       0:00:00   0:00:00
 
 
-   Speed :           337423333 Bytes/sec.
-   Speed :           19307.518 MegaBytes/min.
-   Ended : Tuesday, March 17, 2026 8:57:24 PM
+   Speed :           1012270000 Bytes/sec.
+   Speed :            57922.554 MegaBytes/min.
+   Ended : Tuesday, March 17, 2026 11:26:02 PM
 
  
 [DEBUG] Counting source files 
@@ -225,7 +225,7 @@ SECTION 2: COPY OPERATIONS
    ROBOCOPY     ::     Robust File Copy for Windows                              
 -------------------------------------------------------------------------------
 
-  Started : Tuesday, March 17, 2026 8:57:26 PM
+  Started : Tuesday, March 17, 2026 11:26:04 PM
    Source : E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Rathgor-Reforged_Assets_DMH_ad0455a0-72e3-c994-c0ec-2fcdb1778b22\
      Dest : C:\GIT_BG3\MOD_REPOS\Rathgor-Reforged_Assets_DMH_ad0455a0-72e3-c994-c0ec-2fcdb1778b22\Public\Rathgor-Reforged_Assets_DMH_ad0455a0-72e3-c994-c0ec-2fcdb1778b22\
 
@@ -242,14 +242,14 @@ SECTION 2: COPY OPERATIONS
 	    New File  		    2959	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Rathgor-Reforged_Assets_DMH_ad0455a0-72e3-c994-c0ec-2fcdb1778b22\Content\[PAK]_Reforged_Assets_Valtheris\96a7ad64-de6d-4adf-b572-1562214105c0.lsf100%  
 	    New File  		    2733	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Rathgor-Reforged_Assets_DMH_ad0455a0-72e3-c994-c0ec-2fcdb1778b22\Content\[PAK]_Reforged_Assets_Valtheris\adb54e4e-78f5-405e-84c2-2ebd257ab87e.lsf100%  
 	    New File  		    2953	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Rathgor-Reforged_Assets_DMH_ad0455a0-72e3-c994-c0ec-2fcdb1778b22\Content\[PAK]_Reforged_Assets_Valtheris\b28afab4-296a-4954-8b0b-f8e00f021c1c.lsf100%  
-	    New File  		   93752	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Rathgor-Reforged_Assets_DMH_ad0455a0-72e3-c994-c0ec-2fcdb1778b22\DGB_Head_Pack_A_AkELkA\Male\DGB_M_NKD_Head_Valtheris\Chin\DGB_M_NKD_Head_Valtheris_Chin_MC_Reforged.GR2100%  
-	    New File  		     210	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Rathgor-Reforged_Assets_DMH_ad0455a0-72e3-c994-c0ec-2fcdb1778b22\DGB_Head_Pack_A_AkELkA\Male\DGB_M_NKD_Head_Valtheris\Chin\DGB_M_NKD_Head_Valtheris_Chin_MC_Reforged.xml100%  
 	    New File  		  629604	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Rathgor-Reforged_Assets_DMH_ad0455a0-72e3-c994-c0ec-2fcdb1778b22\DGB_Head_Pack_A_AkELkA\Male\DGB_M_NKD_Head_Valtheris\Crest\DGB_M_NKD_Head_Valtheris_Top_Reforged_Broken_L.GR2100%  
 	    New File  		     216	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Rathgor-Reforged_Assets_DMH_ad0455a0-72e3-c994-c0ec-2fcdb1778b22\DGB_Head_Pack_A_AkELkA\Male\DGB_M_NKD_Head_Valtheris\Crest\DGB_M_NKD_Head_Valtheris_Top_Reforged_Broken_L.xml100%  
 	    New File  		  629660	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Rathgor-Reforged_Assets_DMH_ad0455a0-72e3-c994-c0ec-2fcdb1778b22\DGB_Head_Pack_A_AkELkA\Male\DGB_M_NKD_Head_Valtheris\Crest\DGB_M_NKD_Head_Valtheris_Top_Reforged_Broken_R.GR2100%  
 	    New File  		     216	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Rathgor-Reforged_Assets_DMH_ad0455a0-72e3-c994-c0ec-2fcdb1778b22\DGB_Head_Pack_A_AkELkA\Male\DGB_M_NKD_Head_Valtheris\Crest\DGB_M_NKD_Head_Valtheris_Top_Reforged_Broken_R.xml100%  
 	    New File  		  427824	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Rathgor-Reforged_Assets_DMH_ad0455a0-72e3-c994-c0ec-2fcdb1778b22\DGB_Head_Pack_A_AkELkA\Male\DGB_M_NKD_Head_Valtheris\Crest\DGB_M_NKD_Head_Valtheris_Top_Reforged_Clean.GR2100%  
 	    New File  		     213	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Rathgor-Reforged_Assets_DMH_ad0455a0-72e3-c994-c0ec-2fcdb1778b22\DGB_Head_Pack_A_AkELkA\Male\DGB_M_NKD_Head_Valtheris\Crest\DGB_M_NKD_Head_Valtheris_Top_Reforged_Clean.xml100%  
+	    New File  		   93752	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Rathgor-Reforged_Assets_DMH_ad0455a0-72e3-c994-c0ec-2fcdb1778b22\DGB_Head_Pack_A_AkELkA\Male\DGB_M_NKD_Head_Valtheris\Chin\DGB_M_NKD_Head_Valtheris_Chin_MC_Reforged.GR2100%  
+	    New File  		     210	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Rathgor-Reforged_Assets_DMH_ad0455a0-72e3-c994-c0ec-2fcdb1778b22\DGB_Head_Pack_A_AkELkA\Male\DGB_M_NKD_Head_Valtheris\Chin\DGB_M_NKD_Head_Valtheris_Chin_MC_Reforged.xml100%  
 
 ------------------------------------------------------------------------------
 
@@ -260,9 +260,9 @@ SECTION 2: COPY OPERATIONS
    Times :   0:00:00   0:00:00                       0:00:00   0:00:00
 
 
-   Speed :           461540500 Bytes/sec.
-   Speed :           26409.559 MegaBytes/min.
-   Ended : Tuesday, March 17, 2026 8:57:26 PM
+   Speed :           369232400 Bytes/sec.
+   Speed :           21127.647 MegaBytes/min.
+   Ended : Tuesday, March 17, 2026 11:26:04 PM
 
  
 [DEBUG] Counting source files 
@@ -288,7 +288,7 @@ SECTION 2: COPY OPERATIONS
    ROBOCOPY     ::     Robust File Copy for Windows                              
 -------------------------------------------------------------------------------
 
-  Started : Tuesday, March 17, 2026 8:57:27 PM
+  Started : Tuesday, March 17, 2026 11:26:06 PM
    Source : E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\Rathgor-Reforged_Assets_DMH_ad0455a0-72e3-c994-c0ec-2fcdb1778b22\
      Dest : C:\GIT_BG3\MOD_REPOS\Rathgor-Reforged_Assets_DMH_ad0455a0-72e3-c994-c0ec-2fcdb1778b22\Generated\Public\Rathgor-Reforged_Assets_DMH_ad0455a0-72e3-c994-c0ec-2fcdb1778b22\
 
@@ -312,9 +312,9 @@ SECTION 2: COPY OPERATIONS
    Times :   0:00:00   0:00:00                       0:00:00   0:00:00
 
 
-   Speed :           593613333 Bytes/sec.
-   Speed :           33966.827 MegaBytes/min.
-   Ended : Tuesday, March 17, 2026 8:57:27 PM
+   Speed :           890420000 Bytes/sec.
+   Speed :           50950.241 MegaBytes/min.
+   Ended : Tuesday, March 17, 2026 11:26:06 PM
 
  
 [DEBUG] Counting source files 
