@@ -1,6 +1,6 @@
 ====================================================== 
    BG3 MOD BACKUP DETAILED LOG - Rathgor-Reforged_Assets_DMH_ad0455a0-72e3-c994-c0ec-2fcdb1778b22 
-   Fri 03/27/2026  1:53:50.79 
+   Sat 04/04/2026  0:28:18.92 
 ====================================================== 
  
 BG3 Path: E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data 
@@ -78,7 +78,7 @@ SECTION 2: COPY OPERATIONS
    ROBOCOPY     ::     Robust File Copy for Windows                              
 -------------------------------------------------------------------------------
 
-  Started : Friday, March 27, 2026 1:53:53 AM
+  Started : Saturday, April 4, 2026 12:28:22 AM
    Source : E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\Rathgor-Reforged_Assets_DMH_ad0455a0-72e3-c994-c0ec-2fcdb1778b22\
      Dest : C:\GIT_BG3\MOD_REPOS\Rathgor-Reforged_Assets_DMH_ad0455a0-72e3-c994-c0ec-2fcdb1778b22\Projects\Rathgor-Reforged_Assets_DMH_ad0455a0-72e3-c994-c0ec-2fcdb1778b22\
 
@@ -89,7 +89,7 @@ SECTION 2: COPY OPERATIONS
 ------------------------------------------------------------------------------
 
 	    New File  		     705	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\Rathgor-Reforged_Assets_DMH_ad0455a0-72e3-c994-c0ec-2fcdb1778b22\meta.lsx100%  
-	    New File  		  993119	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\Rathgor-Reforged_Assets_DMH_ad0455a0-72e3-c994-c0ec-2fcdb1778b22\thumbnail.png 52%  100%  
+	    New File  		  993119	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\Rathgor-Reforged_Assets_DMH_ad0455a0-72e3-c994-c0ec-2fcdb1778b22\thumbnail.png100%  
 
 ------------------------------------------------------------------------------
 
@@ -98,7 +98,11 @@ SECTION 2: COPY OPERATIONS
    Files :         2         2         0         0         0         0
    Bytes :   970.5 k   970.5 k         0         0         0         0
    Times :   0:00:00   0:00:00                       0:00:00   0:00:00
-   Ended : Friday, March 27, 2026 1:53:53 AM
+
+
+   Speed :           993824000 Bytes/sec.
+   Speed :           56867.065 MegaBytes/min.
+   Ended : Saturday, April 4, 2026 12:28:22 AM
 
  
 [DEBUG] Counting source files 
@@ -124,7 +128,7 @@ SECTION 2: COPY OPERATIONS
    ROBOCOPY     ::     Robust File Copy for Windows                              
 -------------------------------------------------------------------------------
 
-  Started : Friday, March 27, 2026 1:53:54 AM
+  Started : Saturday, April 4, 2026 12:28:24 AM
    Source : E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Editor\Mods\Rathgor-Reforged_Assets_DMH_ad0455a0-72e3-c994-c0ec-2fcdb1778b22\
      Dest : C:\GIT_BG3\MOD_REPOS\Rathgor-Reforged_Assets_DMH_ad0455a0-72e3-c994-c0ec-2fcdb1778b22\Editor\Mods\Rathgor-Reforged_Assets_DMH_ad0455a0-72e3-c994-c0ec-2fcdb1778b22\
 
@@ -143,7 +147,7 @@ SECTION 2: COPY OPERATIONS
    Files :         1         1         0         0         0         0
    Bytes :    67.4 k    67.4 k         0         0         0         0
    Times :   0:00:00   0:00:00                       0:00:00   0:00:00
-   Ended : Friday, March 27, 2026 1:53:54 AM
+   Ended : Saturday, April 4, 2026 12:28:24 AM
 
  
 [DEBUG] Counting source files 
@@ -169,7 +173,7 @@ SECTION 2: COPY OPERATIONS
    ROBOCOPY     ::     Robust File Copy for Windows                              
 -------------------------------------------------------------------------------
 
-  Started : Friday, March 27, 2026 1:53:55 AM
+  Started : Saturday, April 4, 2026 12:28:26 AM
    Source : E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\Rathgor-Reforged_Assets_DMH_ad0455a0-72e3-c994-c0ec-2fcdb1778b22\
      Dest : C:\GIT_BG3\MOD_REPOS\Rathgor-Reforged_Assets_DMH_ad0455a0-72e3-c994-c0ec-2fcdb1778b22\Mods\Rathgor-Reforged_Assets_DMH_ad0455a0-72e3-c994-c0ec-2fcdb1778b22\
 
@@ -193,9 +197,9 @@ SECTION 2: COPY OPERATIONS
    Times :   0:00:00   0:00:00                       0:00:00   0:00:00
 
 
-   Speed :           1012270000 Bytes/sec.
-   Speed :            57922.554 MegaBytes/min.
-   Ended : Friday, March 27, 2026 1:53:55 AM
+   Speed :           506135000 Bytes/sec.
+   Speed :           28961.277 MegaBytes/min.
+   Ended : Saturday, April 4, 2026 12:28:26 AM
 
  
 [DEBUG] Counting source files 
@@ -221,7 +225,7 @@ SECTION 2: COPY OPERATIONS
    ROBOCOPY     ::     Robust File Copy for Windows                              
 -------------------------------------------------------------------------------
 
-  Started : Friday, March 27, 2026 1:53:56 AM
+  Started : Saturday, April 4, 2026 12:28:28 AM
    Source : E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Rathgor-Reforged_Assets_DMH_ad0455a0-72e3-c994-c0ec-2fcdb1778b22\
      Dest : C:\GIT_BG3\MOD_REPOS\Rathgor-Reforged_Assets_DMH_ad0455a0-72e3-c994-c0ec-2fcdb1778b22\Public\Rathgor-Reforged_Assets_DMH_ad0455a0-72e3-c994-c0ec-2fcdb1778b22\
 
@@ -256,9 +260,9 @@ SECTION 2: COPY OPERATIONS
    Times :   0:00:00   0:00:00                       0:00:00   0:00:00
 
 
-   Speed :           615387333 Bytes/sec.
-   Speed :           35212.745 MegaBytes/min.
-   Ended : Friday, March 27, 2026 1:53:56 AM
+   Speed :           369232400 Bytes/sec.
+   Speed :           21127.647 MegaBytes/min.
+   Ended : Saturday, April 4, 2026 12:28:28 AM
 
  
 [DEBUG] Counting source files 
@@ -284,7 +288,7 @@ SECTION 2: COPY OPERATIONS
    ROBOCOPY     ::     Robust File Copy for Windows                              
 -------------------------------------------------------------------------------
 
-  Started : Friday, March 27, 2026 1:53:57 AM
+  Started : Saturday, April 4, 2026 12:28:29 AM
    Source : E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\Rathgor-Reforged_Assets_DMH_ad0455a0-72e3-c994-c0ec-2fcdb1778b22\
      Dest : C:\GIT_BG3\MOD_REPOS\Rathgor-Reforged_Assets_DMH_ad0455a0-72e3-c994-c0ec-2fcdb1778b22\Generated\Public\Rathgor-Reforged_Assets_DMH_ad0455a0-72e3-c994-c0ec-2fcdb1778b22\
 
@@ -308,9 +312,9 @@ SECTION 2: COPY OPERATIONS
    Times :   0:00:00   0:00:00                       0:00:00   0:00:00
 
 
-   Speed :           1780840000 Bytes/sec.
-   Speed :           101900.482 MegaBytes/min.
-   Ended : Friday, March 27, 2026 1:53:57 AM
+   Speed :           593613333 Bytes/sec.
+   Speed :           33966.827 MegaBytes/min.
+   Ended : Saturday, April 4, 2026 12:28:29 AM
 
  
 [DEBUG] Counting source files 
